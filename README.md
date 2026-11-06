@@ -1,130 +1,215 @@
-# 💪 Calisthenics Evolution
+ <div align="center">
 
-**Evolua sua força. Supere seus limites. Acompanhe seu progresso.**
+# 💪 CALISTHENICS EVOLUTION
 
-O **Calisthenics Evolution** é um aplicativo Android dedicado à calistenia, desenvolvido para ajudar você a organizar seus treinos, superar desafios e acompanhar sua evolução física.
+### DOMINE SEU CORPO. SUPERE SEUS LIMITES.
 
-Treine de forma inteligente, estabeleça metas e acompanhe cada conquista da sua jornada.
+**Sua evolução na calistenia começa aqui.**
 
----
+Um aplicativo completo para transformar sua maneira de treinar, acompanhar seu progresso e conquistar novos objetivos.
 
-## 📱 Sobre o aplicativo
+**TREINE • EVOLUA • CONQUISTE**
 
-O Calisthenics Evolution reúne ferramentas para quem deseja evoluir na calistenia, desde iniciantes até praticantes avançados.
+[📥 BAIXAR APLICATIVO](../../releases/latest)
 
-### ✨ Funcionalidades
-
-- 🏋️ **Treinos personalizados** — Crie e organize suas próprias rotinas.
-- 📚 **Biblioteca de exercícios** — Consulte exercícios e suas informações.
-- 🎯 **Desafios e circuitos** — Teste seus limites com diferentes desafios.
-- 📈 **Acompanhamento de evolução** — Visualize seu progresso e histórico.
-- 📷 **Câmera IA** — Utilize recursos de análise de movimentos para exercícios compatíveis.
-- 🏆 **Conquistas e experiência** — Acompanhe sua evolução por meio de XP e níveis.
-- 📅 **Planejamento semanal** — Organize seus dias de treino.
-- 🌙 **Interface moderna** — Design escuro com identidade visual própria.
-- 🔄 **Atualizações pelo aplicativo** — Receba novas versões sem depender da Google Play Store.
+</div>
 
 ---
 
-## 📥 Download e instalação
+## 🚀 Evolua a cada treino
 
-A distribuição oficial do aplicativo é realizada por meio do **GitHub Releases**.
+A calistenia vai muito além de fazer flexões ou barras. É sobre desenvolver força, resistência, equilíbrio, mobilidade e, acima de tudo, conquistar o controle do próprio corpo.
 
-### Como instalar
+O **Calisthenics Evolution** foi criado para acompanhar essa jornada.
 
-1. Acesse a página de [Releases](../../releases).
-2. Selecione a versão mais recente disponível.
-3. Baixe o arquivo `app-release.apk`.
-4. Abra o APK no seu dispositivo Android.
-5. Se solicitado, autorize a instalação de aplicativos dessa origem.
-6. Confirme a instalação e abra o **Calisthenics Evolution**.
+Seja você um iniciante dando os primeiros passos ou um atleta buscando dominar movimentos avançados, o aplicativo oferece ferramentas para organizar sua rotina, acompanhar seus resultados e manter a motivação.
 
-> **Importante:** baixe o aplicativo somente por este repositório oficial. A disponibilidade de versões depende das publicações realizadas pelo desenvolvedor.
+**Seu corpo é sua ferramenta. Sua evolução é sua conquista.**
 
 ---
 
-## 🔄 Sistema de atualizações
+## ⚡ Tudo o que você precisa para evoluir
 
-O Calisthenics Evolution possui um sistema integrado para verificar a disponibilidade de novas versões.
+### 🏋️ Treinos personalizados
 
-Quando uma atualização estiver disponível, o aplicativo poderá:
+**Seu treino. Seu ritmo. Sua evolução.**
 
-- 🔍 Detectar uma versão mais recente.
-- 📝 Apresentar as novidades da atualização.
-- 📥 Baixar o novo APK com indicador de progresso.
-- 🛡️ Verificar a integridade e a autenticidade dos arquivos de atualização.
-- 📲 Abrir o instalador nativo do Android para confirmação.
+Crie rotinas de treinamento adaptadas aos seus objetivos e organize seus exercícios de maneira prática.
 
-Também é possível verificar atualizações manualmente em:
+- Crie e personalize seus próprios treinos.
+- Organize séries, repetições e tempos de descanso.
+- Planeje sua rotina semanal.
+- Gere sugestões de treinos de acordo com seu nível e objetivos.
+- Acompanhe os treinos realizados.
+- Salve exercícios favoritos.
 
-**Perfil → Configurações → Atualizações**
+Treine com mais organização e tenha clareza sobre o próximo passo.
 
-> A instalação depende da confirmação do usuário e das permissões do Android. Para atualizar sem reinstalar, o pacote e a assinatura Android precisam ser compatíveis.
+### 📚 Biblioteca de exercícios
+
+**Conhecimento para treinar melhor.**
+
+Explore uma biblioteca com exercícios de calistenia para diferentes níveis de experiência.
+
+- Exercícios para iniciantes, intermediários e avançados.
+- Informações sobre execução e grupos musculares.
+- Ilustrações para facilitar a identificação dos movimentos.
+- Diferentes variações e dificuldades.
+- Consulta rápida durante a preparação dos treinos.
+
+Encontre exercícios para desenvolver força, resistência e controle corporal.
+
+### 📷 Câmera IA
+
+**Tecnologia acompanhando seus movimentos.**
+
+Utilize a câmera do celular para acompanhar determinados exercícios com auxílio de análise de movimento.
+
+- Reconhecimento de movimentos compatíveis.
+- Contagem estimada de repetições.
+- Acompanhamento de exercícios selecionados.
+- Feedback visual durante a atividade.
+- Processamento diretamente no dispositivo.
+
+Uma ferramenta adicional para tornar seus treinos mais interativos.
+
+*As análises são estimativas automatizadas e não substituem a avaliação de um profissional.*
+
+### 🏆 Desafios e circuitos
+
+**Até onde você consegue chegar?**
+
+Coloque sua resistência e determinação à prova com desafios que tornam os treinos mais dinâmicos.
+
+- Participe de desafios predefinidos.
+- Crie seus próprios circuitos.
+- Combine diferentes exercícios.
+- Personalize repetições, séries e descansos.
+- Acompanhe os desafios concluídos.
+- Inclua desafios na sua rotina de treinamento.
+
+Cada desafio é uma oportunidade de superar sua marca anterior.
+
+### 📈 Evolução e estatísticas
+
+**Cada repetição conta. Cada conquista importa.**
+
+Acompanhe seu desenvolvimento e visualize o resultado da sua dedicação.
+
+- Histórico de treinos realizados.
+- Estatísticas de atividades.
+- Acompanhamento da frequência semanal.
+- Calendário de treinamento.
+- Registro do progresso ao longo do tempo.
+- Visualização de metas e resultados.
+
+Transforme consistência em progresso mensurável.
+
+### 🎯 Metas pessoais
+
+**Grandes conquistas começam com pequenos objetivos.**
+
+Defina metas para manter o foco e construir hábitos de treinamento.
+
+- Estabeleça objetivos pessoais.
+- Acompanhe seu progresso.
+- Organize metas por diferentes períodos.
+- Visualize o que já conquistou.
+- Mantenha a motivação com objetivos claros.
+
+O importante não é apenas começar, mas continuar evoluindo.
+
+### 💚 Experiência, níveis e conquistas
+
+**Faça da sua evolução uma jornada.**
+
+O Calisthenics Evolution utiliza elementos de progressão para tornar o treinamento mais envolvente.
+
+- Ganhe experiência com suas atividades.
+- Acompanhe seu nível.
+- Desbloqueie conquistas disponíveis.
+- Visualize marcos da sua jornada.
+- Mantenha a motivação para alcançar novos resultados.
+
+Porque cada treino concluído representa mais um passo na sua evolução.
 
 ---
 
-## 🔐 Segurança e integridade
+## 🔥 Desenvolva suas habilidades
 
-As versões oficiais são distribuídas com mecanismos de verificação para proteger o processo de atualização.
+A calistenia é construída sobre progressões. Antes de dominar movimentos avançados, é necessário desenvolver força, estabilidade e técnica.
 
-Cada release de produção deve conter:
+O Calisthenics Evolution ajuda você a acompanhar sua jornada de desenvolvimento de habilidades, respeitando seu nível atual e seus objetivos.
 
-| Arquivo | Descrição |
+< div align="center">
+
+**FORÇA • EQUILÍBRIO • RESISTÊNCIA • CONTROLE**
+
+</div>
+
+---
+
+## 📅 Consistência é o segredo
+
+Não importa se você treina três, quatro ou seis vezes por semana. O que realmente faz diferença é a consistência.
+
+Com o Calisthenics Evolution, você pode planejar seus dias de treino, organizar períodos de descanso e acompanhar sua frequência.
+
+**Não compare seu primeiro dia com o milésimo dia de outra pessoa. Compare quem você é hoje com quem era ontem.**
+
+---
+
+## 🌙 Uma experiência feita para atletas
+
+Uma interface moderna, com tema escuro e detalhes em verde, projetada para manter o foco no que realmente importa: seu treino.
+
+**Simples para começar. Completa para evoluir.**
+
+O aplicativo reúne planejamento, exercícios, desafios e acompanhamento de progresso em um único lugar.
+
+---
+
+## 📱 Para quem é o Calisthenics Evolution?
+
+| Seu objetivo | Como o aplicativo ajuda |
 |---|---|
-| `app-release.apk` | Aplicativo Android assinado |
-| `update.json` | Manifesto com informações da versão e integridade |
-| `update.sig` | Assinatura digital do manifesto |
+| 🌱 Começar na calistenia | Organize seus primeiros treinos e descubra exercícios |
+| 💪 Ganhar força | Planeje rotinas e acompanhe seu desempenho |
+| 🔥 Melhorar resistência | Realize circuitos e desafios |
+| 🤸 Desenvolver habilidades | Acompanhe suas progressões |
+| 📊 Monitorar resultados | Consulte histórico, estatísticas e metas |
+| 🏆 Manter a motivação | Evolua por meio de objetivos e conquistas |
 
-O sistema utiliza verificação SHA-256 e assinatura digital do manifesto para detectar alterações não autorizadas, conforme as verificações implementadas no aplicativo.
-
-**Nenhuma chave privada, senha ou credencial de publicação é disponibilizada neste repositório.**
-
----
-
-## 📦 Histórico de versões
-
-As versões publicadas, suas melhorias e correções podem ser consultadas na página de [Releases](../../releases).
-
-Cada publicação poderá incluir:
-
-- Novas funcionalidades.
-- Melhorias de interface e usabilidade.
-- Otimizações de desempenho.
-- Correções de bugs.
-- Ajustes de compatibilidade.
-
-Recomendamos utilizar sempre a versão estável mais recente.
+Não importa de onde você está começando. O importante é continuar avançando.
 
 ---
 
-## 🛠️ Sobre este repositório
+## 📥 Comece sua evolução
 
-Este é o **repositório público oficial de distribuição** do Calisthenics Evolution.
+O Calisthenics Evolution está disponível para dispositivos Android.
 
-Ele é utilizado exclusivamente para disponibilizar versões compiladas do aplicativo e os arquivos necessários ao sistema de atualização.
+**Como instalar:**
 
-O código-fonte do projeto é mantido em um repositório privado separado.
-
-**Este repositório não contém o código-fonte do aplicativo.**
-
----
-
-## ⚠️ Aviso
-
-O Calisthenics Evolution é uma ferramenta de apoio ao treinamento físico. Os recursos de Câmera IA fornecem estimativas automatizadas e não substituem a orientação de profissionais qualificados.
-
-Respeite seus limites físicos e execute os exercícios com segurança.
-
----
+1. Acesse a página de [download](../../releases/latest).
+2. Baixe o APK da versão disponível.
+3. Abra o arquivo no seu dispositivo Android.
+4. Confirme a instalação.
+5. Comece sua jornada!
 
 <div align="center">
 
-### 💚 Calisthenics Evolution
+### 🚀 PRONTO PARA SUPERAR SEUS LIMITES?
 
-**Sua evolução começa com o próximo treino.**
+**Seu próximo nível começa com uma decisão.**
 
-[📥 Baixar versão mais recente](../../releases/latest)
+[**💚 BAIXAR CALISTHENICS EVOLUTION**](../../releases/latest)
 
-*Desenvolvido com dedicação para a comunidade de calistenia.*
+---
+
+**CALISTHENICS EVOLUTION**
+
+*Build Strength. Master Your Body. Evolve.*
+
+**Feito para quem acredita que a evolução não tem limites.**
 
 </div>
